@@ -4,7 +4,7 @@
 
 下载之后，按步骤依次安装即可。
 
-![image-20260329163537649](C:\Users\冯飞宇\AppData\Roaming\Typora\typora-user-images\image-20260329163537649.png)
+![image-20260330004119402](./assets/image-20260330004119402.png)
 
 ![image-20260329164823527](./assets/image-20260329164823527.png)
 
